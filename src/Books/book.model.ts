@@ -1,8 +1,8 @@
-export class Book {
-constructor(
-    public id:string ,
-    public name:string,
-    public author:string,
-    public price :number
-){}
-}
+// export class Book {
+// constructor(
+//     public id:string ,
+//     public title:string,
+//     public author:string,
+//     public price :number
+// ){}
+// }
